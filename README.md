@@ -1,3 +1,4 @@
 # rp
 hi
 hello
+global
